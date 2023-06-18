@@ -1,0 +1,19 @@
+{
+  "name": "ping-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier ./ --write"
+  },
+  "author": "Melvin Jones Repol",
+  "license": "SEE LICENSE IN https://github.com/mrepol742/Mrepol742-the-License",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+},
+"engines": {
+    "node": ">=18.x"
+}
+}
